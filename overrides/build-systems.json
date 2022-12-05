@@ -14462,6 +14462,9 @@
   "retworkx": [
     "setuptools"
   ],
+  "revchatgpt": [
+    "setuptools"
+  ],
   "rfc3339": [
     "setuptools"
   ],
