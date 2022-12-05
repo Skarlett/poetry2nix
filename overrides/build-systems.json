@@ -3661,6 +3661,9 @@
   "discordpy": [
     "setuptools"
   ],
+  "discord-py": [
+    "setuptools"
+  ]
   "discovery30303": [
     "poetry-core",
     "setuptools"
